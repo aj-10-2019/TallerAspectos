@@ -6,6 +6,7 @@ import javax.swing.JLabel;
 
 public class Clientes extends Entidad{
 	private String[] listclient={"Juan Perez","Manuel Castillo","Luisa Mera","Andrea Paez"};
+	
 
 	public Clientes() {
 		
